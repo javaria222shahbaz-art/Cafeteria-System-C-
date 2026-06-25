@@ -1,6 +1,4 @@
 // Cafeteria-Managment-System.cpp 
-// cafeteria management system 
-//
 
 #include <iostream>
 #include <string>
